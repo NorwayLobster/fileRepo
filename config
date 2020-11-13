@@ -1,0 +1,26 @@
+ Host yanghong
+	HostName  10.223.224.136
+	User root 
+	Port 22     
+	IdentityFile ~/.ssh/id_rsa
+ Host dongkang 
+	HostName  10.120.197.171
+	User zdonkan
+	Port 22     
+	IdentityFile ~/.ssh/id_rsa
+ Host nancy
+	HostName  10.117.145.149
+	User ehazqio
+	Port 22     
+	IdentityFile ~/.ssh/id_rsa
+ Host yuhan
+	HostName  10.120.181.73
+	User root 
+	Port 22     
+	IdentityFile ~/.ssh/id_rsa
+
+ Host vincent
+	HostName  10.120.20.51
+	User root 
+	Port 22     
+	IdentityFile ~/.ssh/id_rsa
